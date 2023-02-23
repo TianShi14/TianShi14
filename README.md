@@ -1,8 +1,8 @@
-📍| Based in Rome - [Lido di Ostia](https://www.visitostia.tv/en/)
+📍 | Based in Rome - [Lido di Ostia](https://www.visitostia.tv/en/)
 
-📚| [University of Trento](https://www.unitn.it/en/ateneo/151/university)
+📚 | [University of Trento](https://www.unitn.it/en/ateneo/151/university)
 
-🖥️| Computer Science, Electronics and Communications Engineering
+🖥️ | Computer Science, Electronics and Communications Engineering
 
 *“Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.”*
 
